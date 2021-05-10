@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="alpha_application_publisher" />
+  <EntityRelationship Name="business_unit_alpha_application" />
+  <EntityRelationship Name="lk_alpha_application_createdby" />
+  <EntityRelationship Name="lk_alpha_application_modifiedby" />
+  <EntityRelationship Name="owner_alpha_application" />
+  <EntityRelationship Name="team_alpha_application" />
+  <EntityRelationship Name="TransactionCurrency_alpha_application" />
+  <EntityRelationship Name="user_alpha_application" />
+</EntityRelationships>
